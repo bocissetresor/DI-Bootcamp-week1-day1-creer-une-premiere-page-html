@@ -1,0 +1,38 @@
+#senses{
+    margin: 20px;
+}
+
+#media{
+    text-align: center;
+}
+
+#chat{
+    text-align:center;
+    margin:auto;
+    display:flex;
+    width: 40%;
+    border:10px solid red;
+}
+
+#carat_lions{
+    text-align: center;
+    color: red;
+    border:2px solid red;
+    margin-left:50px;
+    margin-right: 80px;
+}
+
+table, th, td {
+    text-align: center;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: 50px;
+    
+}
+
+#lions{
+    margin-left: 400px;
+    margin-top: 60px;
+    width: 40%;
+    border:10px solid red;
+}
